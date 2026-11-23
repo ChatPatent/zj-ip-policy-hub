@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="0">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#0d3557">
+<meta name="description" content="浙江省知识产权政策与案例综合服务平台：汇聚国家、省、市、区县四级知识产权政策与官方案例，服务中小微企业出海。">
+<title>浙江省知识产权政策与案例综合服务平台 · 企业查询版</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'><rect width='64' height='64' rx='14' fill='%230d3557'/><text x='32' y='42' font-size='28' font-family='Arial' font-weight='bold' text-anchor='middle' fill='%23ffffff'>IP</text></svg>">
+<link rel="stylesheet" href="assets/css/app.css">
+</head>
+<body>
+
+<!-- 角色声明：本入口为「企业用户版」，只读查询，不加载数据后台与构建者功能 -->
+<script>window.ZJ_MODE = "public";</script>
+
+<header class="topbar">
+  <div class="topbar-inner">
+    <a class="brand" href="#/home" aria-label="返回首页">
+      <span class="brand-mark">
+        <svg viewBox="0 0 24 24" fill="none" stroke="#ffffff" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10Z"/><path d="M9 12l2 2 4-4"/>
+        </svg>
+      </span>
+      <span class="brand-txt"><b>浙江知识产权政策与案例平台</b><small>ZHEJIANG IP POLICY &amp; CASE HUB</small></span>
+    </a>
+
+    <form class="top-search" id="topSearch" role="search">
+      <svg viewBox="0 0 24 24" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-4-4"/></svg>
+      <input id="topQ" type="search" placeholder="全站检索政策与案例（快捷键 /）" autocomplete="off" aria-label="全站检索">
+    </form>
+
+    <span class="role-badge" aria-label="当前为面向企业的查询版">企业查询版</span>
+    <button class="nav-toggle" id="navToggle" type="button" aria-label="展开导航">☰</button>
+    <nav class="nav" id="nav" aria-label="主导航">
+      <a href="#/home" data-route="home">首页</a>
+      <a href="#/policies" data-route="policies">政策库</a>
+      <a href="#/cases" data-route="cases">案例库</a>
+      <a href="#/match" data-route="match">出海助手</a>
+      <a href="#/sources" data-route="sources">数据说明</a>
+      <a href="#/about" data-route="about">关于</a>
+    </nav>
+  </div>
+</header>
+
+<main class="wrap" id="app"></main>
+
+<footer class="footer">
+  <div class="footer-inner">
+    <div>
+      <b style="color:var(--navy)">浙江省知识产权政策与案例综合服务平台</b><br>
+      面向中小微企业出海的公益信息聚合与检索工具 · 无需注册 · 打开即用
+    </div>
+    <div style="max-width:520px">
+      本平台为教学与竞赛用途的信息聚合工具，不构成法律意见或申报承诺。政策适用、资格条件、金额与有效期以各级政府及其部门正式发布文本为准；标注「待核验」的内容请勿直接用于决策。
+    </div>
+    <div class="tiny">
+      数据来源于各级政府部门公开信息 · 逐条标注核验状态与原文链接<br>
+      <span id="buildStamp">检索与匹配均在浏览器本地完成，不上传企业信息</span>
+    </div>
+  </div>
+</footer>
+
+<div class="overlay" id="overlay"></div>
+<aside class="drawer" id="drawer" role="dialog" aria-modal="true" aria-label="条目详情"></aside>
+<div class="toast" id="toast" role="status"></div>
+
+<script src="data/bundle.js"></script>
+<script src="assets/js/util.js"></script>
+<script src="assets/js/search.js"></script>
+<script src="assets/js/data.js"></script>
+<script src="assets/js/views.js"></script>
+<script src="assets/js/views-extra.js"></script>
+<!-- 企业用户版不加载 assets/js/admin.js -->
+<script src="assets/js/app.js"></script>
+</body>
+</html>
