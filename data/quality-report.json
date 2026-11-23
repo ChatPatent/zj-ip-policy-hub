@@ -1,0 +1,319 @@
+{
+  "generatedAt": "2026-11-14 11:30:04",
+  "errors": [],
+  "warnings": [
+    "policies[0] ZJ-P-0001 缺原文链接（前台将显示「原文待补录」）",
+    "policies[14] ZJ-P-0015 缺原文链接（前台将显示「原文待补录」）",
+    "policies[14] ZJ-P-0015 为待核验条目，使用前需复核",
+    "policies[17] ZJ-P-0018 为待核验条目，使用前需复核",
+    "policies[18] ZJ-P-0019 为待核验条目，使用前需复核",
+    "policies[21] ZJ-P-0022 为待核验条目，使用前需复核",
+    "cases[26] ZJ-C-0027 为待核验条目，使用前需复核",
+    "cases[31] ZJ-C-0032 缺原文链接（前台将显示「原文待补录」）",
+    "cases[31] ZJ-C-0032 为待核验条目，使用前需复核"
+  ],
+  "missingSourceUrl": [
+    "ZJ-P-0001",
+    "ZJ-P-0015",
+    "ZJ-C-0032"
+  ],
+  "pendingItems": [
+    "ZJ-P-0015",
+    "ZJ-P-0018",
+    "ZJ-P-0019",
+    "ZJ-P-0022",
+    "ZJ-C-0027",
+    "ZJ-C-0032"
+  ],
+  "demoItems": [],
+  "blankDistricts": [
+    {
+      "city": "杭州市",
+      "district": "上城区"
+    },
+    {
+      "city": "杭州市",
+      "district": "拱墅区"
+    },
+    {
+      "city": "杭州市",
+      "district": "西湖区"
+    },
+    {
+      "city": "杭州市",
+      "district": "临平区"
+    },
+    {
+      "city": "杭州市",
+      "district": "钱塘区"
+    },
+    {
+      "city": "杭州市",
+      "district": "临安区"
+    },
+    {
+      "city": "杭州市",
+      "district": "淳安县"
+    },
+    {
+      "city": "杭州市",
+      "district": "建德市"
+    },
+    {
+      "city": "宁波市",
+      "district": "海曙区"
+    },
+    {
+      "city": "宁波市",
+      "district": "江北区"
+    },
+    {
+      "city": "宁波市",
+      "district": "北仑区"
+    },
+    {
+      "city": "宁波市",
+      "district": "镇海区"
+    },
+    {
+      "city": "宁波市",
+      "district": "鄞州区"
+    },
+    {
+      "city": "宁波市",
+      "district": "奉化区"
+    },
+    {
+      "city": "宁波市",
+      "district": "慈溪市"
+    },
+    {
+      "city": "宁波市",
+      "district": "象山县"
+    },
+    {
+      "city": "温州市",
+      "district": "鹿城区"
+    },
+    {
+      "city": "温州市",
+      "district": "洞头区"
+    },
+    {
+      "city": "温州市",
+      "district": "永嘉县"
+    },
+    {
+      "city": "温州市",
+      "district": "平阳县"
+    },
+    {
+      "city": "温州市",
+      "district": "苍南县"
+    },
+    {
+      "city": "温州市",
+      "district": "文成县"
+    },
+    {
+      "city": "温州市",
+      "district": "泰顺县"
+    },
+    {
+      "city": "温州市",
+      "district": "瑞安市"
+    },
+    {
+      "city": "温州市",
+      "district": "龙港市"
+    },
+    {
+      "city": "嘉兴市",
+      "district": "南湖区"
+    },
+    {
+      "city": "嘉兴市",
+      "district": "秀洲区"
+    },
+    {
+      "city": "嘉兴市",
+      "district": "海盐县"
+    },
+    {
+      "city": "嘉兴市",
+      "district": "海宁市"
+    },
+    {
+      "city": "嘉兴市",
+      "district": "平湖市"
+    },
+    {
+      "city": "嘉兴市",
+      "district": "桐乡市"
+    },
+    {
+      "city": "湖州市",
+      "district": "吴兴区"
+    },
+    {
+      "city": "湖州市",
+      "district": "南浔区"
+    },
+    {
+      "city": "湖州市",
+      "district": "德清县"
+    },
+    {
+      "city": "湖州市",
+      "district": "长兴县"
+    },
+    {
+      "city": "绍兴市",
+      "district": "越城区"
+    },
+    {
+      "city": "绍兴市",
+      "district": "上虞区"
+    },
+    {
+      "city": "绍兴市",
+      "district": "新昌县"
+    },
+    {
+      "city": "绍兴市",
+      "district": "嵊州市"
+    },
+    {
+      "city": "金华市",
+      "district": "婺城区"
+    },
+    {
+      "city": "金华市",
+      "district": "金东区"
+    },
+    {
+      "city": "金华市",
+      "district": "武义县"
+    },
+    {
+      "city": "金华市",
+      "district": "浦江县"
+    },
+    {
+      "city": "金华市",
+      "district": "磐安县"
+    },
+    {
+      "city": "金华市",
+      "district": "兰溪市"
+    },
+    {
+      "city": "金华市",
+      "district": "东阳市"
+    },
+    {
+      "city": "衢州市",
+      "district": "柯城区"
+    },
+    {
+      "city": "衢州市",
+      "district": "衢江区"
+    },
+    {
+      "city": "衢州市",
+      "district": "常山县"
+    },
+    {
+      "city": "衢州市",
+      "district": "开化县"
+    },
+    {
+      "city": "衢州市",
+      "district": "龙游县"
+    },
+    {
+      "city": "衢州市",
+      "district": "江山市"
+    },
+    {
+      "city": "舟山市",
+      "district": "定海区"
+    },
+    {
+      "city": "舟山市",
+      "district": "普陀区"
+    },
+    {
+      "city": "舟山市",
+      "district": "岱山县"
+    },
+    {
+      "city": "舟山市",
+      "district": "嵊泗县"
+    },
+    {
+      "city": "台州市",
+      "district": "椒江区"
+    },
+    {
+      "city": "台州市",
+      "district": "路桥区"
+    },
+    {
+      "city": "台州市",
+      "district": "三门县"
+    },
+    {
+      "city": "台州市",
+      "district": "天台县"
+    },
+    {
+      "city": "台州市",
+      "district": "仙居县"
+    },
+    {
+      "city": "台州市",
+      "district": "温岭市"
+    },
+    {
+      "city": "台州市",
+      "district": "玉环市"
+    },
+    {
+      "city": "丽水市",
+      "district": "莲都区"
+    },
+    {
+      "city": "丽水市",
+      "district": "青田县"
+    },
+    {
+      "city": "丽水市",
+      "district": "缙云县"
+    },
+    {
+      "city": "丽水市",
+      "district": "遂昌县"
+    },
+    {
+      "city": "丽水市",
+      "district": "松阳县"
+    },
+    {
+      "city": "丽水市",
+      "district": "云和县"
+    },
+    {
+      "city": "丽水市",
+      "district": "庆元县"
+    },
+    {
+      "city": "丽水市",
+      "district": "景宁畲族自治县"
+    },
+    {
+      "city": "丽水市",
+      "district": "龙泉市"
+    }
+  ]
+}
