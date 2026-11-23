@@ -1,0 +1,1063 @@
+{
+  "schemaVersion": "1.0",
+  "generatedAt": "2026-11-14 11:30:04",
+  "note": "覆盖度是持续建设指标，不是完成度声明。空白区县即下一阶段采集任务清单。",
+  "province": {
+    "policies": 25,
+    "cases": 32,
+    "national": 2,
+    "provinceLevel": 16,
+    "cityLevel": 15,
+    "countyLevel": 24,
+    "verified": 51,
+    "pending": 6,
+    "demo": 0,
+    "withSourceUrl": 54,
+    "cityTotal": 11,
+    "districtTotal": 90,
+    "coveredDistricts": 18
+  },
+  "cities": [
+    {
+      "id": "hangzhou",
+      "name": "杭州市",
+      "policies": 2,
+      "cases": 8,
+      "total": 10,
+      "districts": [
+        {
+          "name": "上城区",
+          "policies": 0,
+          "cases": 0,
+          "total": 0,
+          "state": "blank"
+        },
+        {
+          "name": "拱墅区",
+          "policies": 0,
+          "cases": 0,
+          "total": 0,
+          "state": "blank"
+        },
+        {
+          "name": "西湖区",
+          "policies": 0,
+          "cases": 0,
+          "total": 0,
+          "state": "blank"
+        },
+        {
+          "name": "滨江区",
+          "policies": 1,
+          "cases": 0,
+          "total": 1,
+          "state": "thin"
+        },
+        {
+          "name": "萧山区",
+          "policies": 0,
+          "cases": 2,
+          "total": 2,
+          "state": "covered"
+        },
+        {
+          "name": "余杭区",
+          "policies": 0,
+          "cases": 1,
+          "total": 1,
+          "state": "thin"
+        },
+        {
+          "name": "临平区",
+          "policies": 0,
+          "cases": 0,
+          "total": 0,
+          "state": "blank"
+        },
+        {
+          "name": "钱塘区",
+          "policies": 0,
+          "cases": 0,
+          "total": 0,
+          "state": "blank"
+        },
+        {
+          "name": "富阳区",
+          "policies": 0,
+          "cases": 1,
+          "total": 1,
+          "state": "thin"
+        },
+        {
+          "name": "临安区",
+          "policies": 0,
+          "cases": 0,
+          "total": 0,
+          "state": "blank"
+        },
+        {
+          "name": "桐庐县",
+          "policies": 0,
+          "cases": 1,
+          "total": 1,
+          "state": "thin"
+        },
+        {
+          "name": "淳安县",
+          "policies": 0,
+          "cases": 0,
+          "total": 0,
+          "state": "blank"
+        },
+        {
+          "name": "建德市",
+          "policies": 0,
+          "cases": 0,
+          "total": 0,
+          "state": "blank"
+        }
+      ],
+      "districtTotal": 13,
+      "coveredDistricts": 5
+    },
+    {
+      "id": "ningbo",
+      "name": "宁波市",
+      "policies": 2,
+      "cases": 4,
+      "total": 6,
+      "districts": [
+        {
+          "name": "海曙区",
+          "policies": 0,
+          "cases": 0,
+          "total": 0,
+          "state": "blank"
+        },
+        {
+          "name": "江北区",
+          "policies": 0,
+          "cases": 0,
+          "total": 0,
+          "state": "blank"
+        },
+        {
+          "name": "北仑区",
+          "policies": 0,
+          "cases": 0,
+          "total": 0,
+          "state": "blank"
+        },
+        {
+          "name": "镇海区",
+          "policies": 0,
+          "cases": 0,
+          "total": 0,
+          "state": "blank"
+        },
+        {
+          "name": "鄞州区",
+          "policies": 0,
+          "cases": 0,
+          "total": 0,
+          "state": "blank"
+        },
+        {
+          "name": "奉化区",
+          "policies": 0,
+          "cases": 0,
+          "total": 0,
+          "state": "blank"
+        },
+        {
+          "name": "余姚市",
+          "policies": 1,
+          "cases": 0,
+          "total": 1,
+          "state": "thin"
+        },
+        {
+          "name": "慈溪市",
+          "policies": 0,
+          "cases": 0,
+          "total": 0,
+          "state": "blank"
+        },
+        {
+          "name": "象山县",
+          "policies": 0,
+          "cases": 0,
+          "total": 0,
+          "state": "blank"
+        },
+        {
+          "name": "宁海县",
+          "policies": 0,
+          "cases": 1,
+          "total": 1,
+          "state": "thin"
+        }
+      ],
+      "districtTotal": 10,
+      "coveredDistricts": 2
+    },
+    {
+      "id": "wenzhou",
+      "name": "温州市",
+      "policies": 0,
+      "cases": 3,
+      "total": 3,
+      "districts": [
+        {
+          "name": "鹿城区",
+          "policies": 0,
+          "cases": 0,
+          "total": 0,
+          "state": "blank"
+        },
+        {
+          "name": "龙湾区",
+          "policies": 0,
+          "cases": 1,
+          "total": 1,
+          "state": "thin"
+        },
+        {
+          "name": "瓯海区",
+          "policies": 0,
+          "cases": 1,
+          "total": 1,
+          "state": "thin"
+        },
+        {
+          "name": "洞头区",
+          "policies": 0,
+          "cases": 0,
+          "total": 0,
+          "state": "blank"
+        },
+        {
+          "name": "永嘉县",
+          "policies": 0,
+          "cases": 0,
+          "total": 0,
+          "state": "blank"
+        },
+        {
+          "name": "平阳县",
+          "policies": 0,
+          "cases": 0,
+          "total": 0,
+          "state": "blank"
+        },
+        {
+          "name": "苍南县",
+          "policies": 0,
+          "cases": 0,
+          "total": 0,
+          "state": "blank"
+        },
+        {
+          "name": "文成县",
+          "policies": 0,
+          "cases": 0,
+          "total": 0,
+          "state": "blank"
+        },
+        {
+          "name": "泰顺县",
+          "policies": 0,
+          "cases": 0,
+          "total": 0,
+          "state": "blank"
+        },
+        {
+          "name": "瑞安市",
+          "policies": 0,
+          "cases": 0,
+          "total": 0,
+          "state": "blank"
+        },
+        {
+          "name": "乐清市",
+          "policies": 0,
+          "cases": 1,
+          "total": 1,
+          "state": "thin"
+        },
+        {
+          "name": "龙港市",
+          "policies": 0,
+          "cases": 0,
+          "total": 0,
+          "state": "blank"
+        }
+      ],
+      "districtTotal": 12,
+      "coveredDistricts": 3
+    },
+    {
+      "id": "jiaxing",
+      "name": "嘉兴市",
+      "policies": 0,
+      "cases": 1,
+      "total": 1,
+      "districts": [
+        {
+          "name": "南湖区",
+          "policies": 0,
+          "cases": 0,
+          "total": 0,
+          "state": "blank"
+        },
+        {
+          "name": "秀洲区",
+          "policies": 0,
+          "cases": 0,
+          "total": 0,
+          "state": "blank"
+        },
+        {
+          "name": "嘉善县",
+          "policies": 0,
+          "cases": 1,
+          "total": 1,
+          "state": "thin"
+        },
+        {
+          "name": "海盐县",
+          "policies": 0,
+          "cases": 0,
+          "total": 0,
+          "state": "blank"
+        },
+        {
+          "name": "海宁市",
+          "policies": 0,
+          "cases": 0,
+          "total": 0,
+          "state": "blank"
+        },
+        {
+          "name": "平湖市",
+          "policies": 0,
+          "cases": 0,
+          "total": 0,
+          "state": "blank"
+        },
+        {
+          "name": "桐乡市",
+          "policies": 0,
+          "cases": 0,
+          "total": 0,
+          "state": "blank"
+        }
+      ],
+      "districtTotal": 7,
+      "coveredDistricts": 1
+    },
+    {
+      "id": "huzhou",
+      "name": "湖州市",
+      "policies": 2,
+      "cases": 1,
+      "total": 3,
+      "districts": [
+        {
+          "name": "吴兴区",
+          "policies": 0,
+          "cases": 0,
+          "total": 0,
+          "state": "blank"
+        },
+        {
+          "name": "南浔区",
+          "policies": 0,
+          "cases": 0,
+          "total": 0,
+          "state": "blank"
+        },
+        {
+          "name": "德清县",
+          "policies": 0,
+          "cases": 0,
+          "total": 0,
+          "state": "blank"
+        },
+        {
+          "name": "长兴县",
+          "policies": 0,
+          "cases": 0,
+          "total": 0,
+          "state": "blank"
+        },
+        {
+          "name": "安吉县",
+          "policies": 0,
+          "cases": 1,
+          "total": 1,
+          "state": "thin"
+        }
+      ],
+      "districtTotal": 5,
+      "coveredDistricts": 1
+    },
+    {
+      "id": "shaoxing",
+      "name": "绍兴市",
+      "policies": 1,
+      "cases": 3,
+      "total": 4,
+      "districts": [
+        {
+          "name": "越城区",
+          "policies": 0,
+          "cases": 0,
+          "total": 0,
+          "state": "blank"
+        },
+        {
+          "name": "柯桥区",
+          "policies": 1,
+          "cases": 1,
+          "total": 2,
+          "state": "covered"
+        },
+        {
+          "name": "上虞区",
+          "policies": 0,
+          "cases": 0,
+          "total": 0,
+          "state": "blank"
+        },
+        {
+          "name": "新昌县",
+          "policies": 0,
+          "cases": 0,
+          "total": 0,
+          "state": "blank"
+        },
+        {
+          "name": "诸暨市",
+          "policies": 0,
+          "cases": 1,
+          "total": 1,
+          "state": "thin"
+        },
+        {
+          "name": "嵊州市",
+          "policies": 0,
+          "cases": 0,
+          "total": 0,
+          "state": "blank"
+        }
+      ],
+      "districtTotal": 6,
+      "coveredDistricts": 2
+    },
+    {
+      "id": "jinhua",
+      "name": "金华市",
+      "policies": 3,
+      "cases": 6,
+      "total": 9,
+      "districts": [
+        {
+          "name": "婺城区",
+          "policies": 0,
+          "cases": 0,
+          "total": 0,
+          "state": "blank"
+        },
+        {
+          "name": "金东区",
+          "policies": 0,
+          "cases": 0,
+          "total": 0,
+          "state": "blank"
+        },
+        {
+          "name": "武义县",
+          "policies": 0,
+          "cases": 0,
+          "total": 0,
+          "state": "blank"
+        },
+        {
+          "name": "浦江县",
+          "policies": 0,
+          "cases": 0,
+          "total": 0,
+          "state": "blank"
+        },
+        {
+          "name": "磐安县",
+          "policies": 0,
+          "cases": 0,
+          "total": 0,
+          "state": "blank"
+        },
+        {
+          "name": "兰溪市",
+          "policies": 0,
+          "cases": 0,
+          "total": 0,
+          "state": "blank"
+        },
+        {
+          "name": "义乌市",
+          "policies": 3,
+          "cases": 4,
+          "total": 7,
+          "state": "covered"
+        },
+        {
+          "name": "东阳市",
+          "policies": 0,
+          "cases": 0,
+          "total": 0,
+          "state": "blank"
+        },
+        {
+          "name": "永康市",
+          "policies": 0,
+          "cases": 2,
+          "total": 2,
+          "state": "covered"
+        }
+      ],
+      "districtTotal": 9,
+      "coveredDistricts": 2
+    },
+    {
+      "id": "quzhou",
+      "name": "衢州市",
+      "policies": 0,
+      "cases": 0,
+      "total": 0,
+      "districts": [
+        {
+          "name": "柯城区",
+          "policies": 0,
+          "cases": 0,
+          "total": 0,
+          "state": "blank"
+        },
+        {
+          "name": "衢江区",
+          "policies": 0,
+          "cases": 0,
+          "total": 0,
+          "state": "blank"
+        },
+        {
+          "name": "常山县",
+          "policies": 0,
+          "cases": 0,
+          "total": 0,
+          "state": "blank"
+        },
+        {
+          "name": "开化县",
+          "policies": 0,
+          "cases": 0,
+          "total": 0,
+          "state": "blank"
+        },
+        {
+          "name": "龙游县",
+          "policies": 0,
+          "cases": 0,
+          "total": 0,
+          "state": "blank"
+        },
+        {
+          "name": "江山市",
+          "policies": 0,
+          "cases": 0,
+          "total": 0,
+          "state": "blank"
+        }
+      ],
+      "districtTotal": 6,
+      "coveredDistricts": 0
+    },
+    {
+      "id": "zhoushan",
+      "name": "舟山市",
+      "policies": 0,
+      "cases": 1,
+      "total": 1,
+      "districts": [
+        {
+          "name": "定海区",
+          "policies": 0,
+          "cases": 0,
+          "total": 0,
+          "state": "blank"
+        },
+        {
+          "name": "普陀区",
+          "policies": 0,
+          "cases": 0,
+          "total": 0,
+          "state": "blank"
+        },
+        {
+          "name": "岱山县",
+          "policies": 0,
+          "cases": 0,
+          "total": 0,
+          "state": "blank"
+        },
+        {
+          "name": "嵊泗县",
+          "policies": 0,
+          "cases": 0,
+          "total": 0,
+          "state": "blank"
+        }
+      ],
+      "districtTotal": 4,
+      "coveredDistricts": 0
+    },
+    {
+      "id": "taizhou",
+      "name": "台州市",
+      "policies": 0,
+      "cases": 3,
+      "total": 3,
+      "districts": [
+        {
+          "name": "椒江区",
+          "policies": 0,
+          "cases": 0,
+          "total": 0,
+          "state": "blank"
+        },
+        {
+          "name": "黄岩区",
+          "policies": 0,
+          "cases": 1,
+          "total": 1,
+          "state": "thin"
+        },
+        {
+          "name": "路桥区",
+          "policies": 0,
+          "cases": 0,
+          "total": 0,
+          "state": "blank"
+        },
+        {
+          "name": "三门县",
+          "policies": 0,
+          "cases": 0,
+          "total": 0,
+          "state": "blank"
+        },
+        {
+          "name": "天台县",
+          "policies": 0,
+          "cases": 0,
+          "total": 0,
+          "state": "blank"
+        },
+        {
+          "name": "仙居县",
+          "policies": 0,
+          "cases": 0,
+          "total": 0,
+          "state": "blank"
+        },
+        {
+          "name": "温岭市",
+          "policies": 0,
+          "cases": 0,
+          "total": 0,
+          "state": "blank"
+        },
+        {
+          "name": "临海市",
+          "policies": 0,
+          "cases": 1,
+          "total": 1,
+          "state": "thin"
+        },
+        {
+          "name": "玉环市",
+          "policies": 0,
+          "cases": 0,
+          "total": 0,
+          "state": "blank"
+        }
+      ],
+      "districtTotal": 9,
+      "coveredDistricts": 2
+    },
+    {
+      "id": "lishui",
+      "name": "丽水市",
+      "policies": 0,
+      "cases": 0,
+      "total": 0,
+      "districts": [
+        {
+          "name": "莲都区",
+          "policies": 0,
+          "cases": 0,
+          "total": 0,
+          "state": "blank"
+        },
+        {
+          "name": "青田县",
+          "policies": 0,
+          "cases": 0,
+          "total": 0,
+          "state": "blank"
+        },
+        {
+          "name": "缙云县",
+          "policies": 0,
+          "cases": 0,
+          "total": 0,
+          "state": "blank"
+        },
+        {
+          "name": "遂昌县",
+          "policies": 0,
+          "cases": 0,
+          "total": 0,
+          "state": "blank"
+        },
+        {
+          "name": "松阳县",
+          "policies": 0,
+          "cases": 0,
+          "total": 0,
+          "state": "blank"
+        },
+        {
+          "name": "云和县",
+          "policies": 0,
+          "cases": 0,
+          "total": 0,
+          "state": "blank"
+        },
+        {
+          "name": "庆元县",
+          "policies": 0,
+          "cases": 0,
+          "total": 0,
+          "state": "blank"
+        },
+        {
+          "name": "景宁畲族自治县",
+          "policies": 0,
+          "cases": 0,
+          "total": 0,
+          "state": "blank"
+        },
+        {
+          "name": "龙泉市",
+          "policies": 0,
+          "cases": 0,
+          "total": 0,
+          "state": "blank"
+        }
+      ],
+      "districtTotal": 9,
+      "coveredDistricts": 0
+    }
+  ],
+  "gaps": [
+    {
+      "city": "杭州市",
+      "district": "上城区"
+    },
+    {
+      "city": "杭州市",
+      "district": "拱墅区"
+    },
+    {
+      "city": "杭州市",
+      "district": "西湖区"
+    },
+    {
+      "city": "杭州市",
+      "district": "临平区"
+    },
+    {
+      "city": "杭州市",
+      "district": "钱塘区"
+    },
+    {
+      "city": "杭州市",
+      "district": "临安区"
+    },
+    {
+      "city": "杭州市",
+      "district": "淳安县"
+    },
+    {
+      "city": "杭州市",
+      "district": "建德市"
+    },
+    {
+      "city": "宁波市",
+      "district": "海曙区"
+    },
+    {
+      "city": "宁波市",
+      "district": "江北区"
+    },
+    {
+      "city": "宁波市",
+      "district": "北仑区"
+    },
+    {
+      "city": "宁波市",
+      "district": "镇海区"
+    },
+    {
+      "city": "宁波市",
+      "district": "鄞州区"
+    },
+    {
+      "city": "宁波市",
+      "district": "奉化区"
+    },
+    {
+      "city": "宁波市",
+      "district": "慈溪市"
+    },
+    {
+      "city": "宁波市",
+      "district": "象山县"
+    },
+    {
+      "city": "温州市",
+      "district": "鹿城区"
+    },
+    {
+      "city": "温州市",
+      "district": "洞头区"
+    },
+    {
+      "city": "温州市",
+      "district": "永嘉县"
+    },
+    {
+      "city": "温州市",
+      "district": "平阳县"
+    },
+    {
+      "city": "温州市",
+      "district": "苍南县"
+    },
+    {
+      "city": "温州市",
+      "district": "文成县"
+    },
+    {
+      "city": "温州市",
+      "district": "泰顺县"
+    },
+    {
+      "city": "温州市",
+      "district": "瑞安市"
+    },
+    {
+      "city": "温州市",
+      "district": "龙港市"
+    },
+    {
+      "city": "嘉兴市",
+      "district": "南湖区"
+    },
+    {
+      "city": "嘉兴市",
+      "district": "秀洲区"
+    },
+    {
+      "city": "嘉兴市",
+      "district": "海盐县"
+    },
+    {
+      "city": "嘉兴市",
+      "district": "海宁市"
+    },
+    {
+      "city": "嘉兴市",
+      "district": "平湖市"
+    },
+    {
+      "city": "嘉兴市",
+      "district": "桐乡市"
+    },
+    {
+      "city": "湖州市",
+      "district": "吴兴区"
+    },
+    {
+      "city": "湖州市",
+      "district": "南浔区"
+    },
+    {
+      "city": "湖州市",
+      "district": "德清县"
+    },
+    {
+      "city": "湖州市",
+      "district": "长兴县"
+    },
+    {
+      "city": "绍兴市",
+      "district": "越城区"
+    },
+    {
+      "city": "绍兴市",
+      "district": "上虞区"
+    },
+    {
+      "city": "绍兴市",
+      "district": "新昌县"
+    },
+    {
+      "city": "绍兴市",
+      "district": "嵊州市"
+    },
+    {
+      "city": "金华市",
+      "district": "婺城区"
+    },
+    {
+      "city": "金华市",
+      "district": "金东区"
+    },
+    {
+      "city": "金华市",
+      "district": "武义县"
+    },
+    {
+      "city": "金华市",
+      "district": "浦江县"
+    },
+    {
+      "city": "金华市",
+      "district": "磐安县"
+    },
+    {
+      "city": "金华市",
+      "district": "兰溪市"
+    },
+    {
+      "city": "金华市",
+      "district": "东阳市"
+    },
+    {
+      "city": "衢州市",
+      "district": "柯城区"
+    },
+    {
+      "city": "衢州市",
+      "district": "衢江区"
+    },
+    {
+      "city": "衢州市",
+      "district": "常山县"
+    },
+    {
+      "city": "衢州市",
+      "district": "开化县"
+    },
+    {
+      "city": "衢州市",
+      "district": "龙游县"
+    },
+    {
+      "city": "衢州市",
+      "district": "江山市"
+    },
+    {
+      "city": "舟山市",
+      "district": "定海区"
+    },
+    {
+      "city": "舟山市",
+      "district": "普陀区"
+    },
+    {
+      "city": "舟山市",
+      "district": "岱山县"
+    },
+    {
+      "city": "舟山市",
+      "district": "嵊泗县"
+    },
+    {
+      "city": "台州市",
+      "district": "椒江区"
+    },
+    {
+      "city": "台州市",
+      "district": "路桥区"
+    },
+    {
+      "city": "台州市",
+      "district": "三门县"
+    },
+    {
+      "city": "台州市",
+      "district": "天台县"
+    },
+    {
+      "city": "台州市",
+      "district": "仙居县"
+    },
+    {
+      "city": "台州市",
+      "district": "温岭市"
+    },
+    {
+      "city": "台州市",
+      "district": "玉环市"
+    },
+    {
+      "city": "丽水市",
+      "district": "莲都区"
+    },
+    {
+      "city": "丽水市",
+      "district": "青田县"
+    },
+    {
+      "city": "丽水市",
+      "district": "缙云县"
+    },
+    {
+      "city": "丽水市",
+      "district": "遂昌县"
+    },
+    {
+      "city": "丽水市",
+      "district": "松阳县"
+    },
+    {
+      "city": "丽水市",
+      "district": "云和县"
+    },
+    {
+      "city": "丽水市",
+      "district": "庆元县"
+    },
+    {
+      "city": "丽水市",
+      "district": "景宁畲族自治县"
+    },
+    {
+      "city": "丽水市",
+      "district": "龙泉市"
+    }
+  ]
+}
